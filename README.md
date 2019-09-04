@@ -1,6 +1,6 @@
 # Red-Cobra
 
-The very best Red Cobra group. We work at DJOG are senior Programers
+The very best Red Cobra group. We work at DJOG are senior Programers.
 
 ![Logo van De Jonge Onderzoekers Groningen](plaatjes/djog.png)
 
