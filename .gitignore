@@ -1,0 +1,43 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+build-*
+*.pro.user
+*.pro.user.*
+djog_nanos_2018/
+*.orig
+*.autosave
+*.autosave
+oclint-0.10.3/
+oclint-0.10.3-x86_64-linux-3.13.0-74-generic.tar.gz
+compile_commands.json
+*.qmodel

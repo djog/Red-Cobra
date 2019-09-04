@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>kamer_garage</class>
+ <widget class="QWidget" name="kamer_garage">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1291</width>
+    <height>732</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="garage">
+   <property name="geometry">
+    <rect>
+     <x>-350</x>
+     <y>-230</y>
+     <width>1461</width>
+     <height>1101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/garage.png</pixmap>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="djog_nanos_2018.qrc"/>
+ </resources>
+ <connections/>
+</ui>

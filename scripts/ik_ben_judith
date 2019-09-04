@@ -1,0 +1,4 @@
+#!/bin/bash
+git config --global user.name "judithbonga"
+
+git config --global user.email "judith@richelbilderbeek.nl"

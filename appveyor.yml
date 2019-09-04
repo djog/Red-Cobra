@@ -1,0 +1,14 @@
+install:
+  - echo install
+  - cd C:\projects\djog-nanos-2018
+  - set QTDIR=C:\Qt\5.11\mingw53_32
+  - set PATH=%PATH%;%QTDIR%\bin;C:\MinGW\bin
+  
+build_script:
+  - qmake djog_nanos_2018.pro
+  - mingw32-make
+
+test_script:
+  - cd release
+  - dir
+  - djog_nanos_2018.exe --versie

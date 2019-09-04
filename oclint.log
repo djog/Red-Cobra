@@ -1,0 +1,24 @@
+
+Compiler Errors:
+(please be aware that these errors will prevent OCLint from analyzing this source code)
+
+/home/richel/GitHubs/djog_nanos_2018/hoofd_scherm.cpp:13:10: 'ui_hoofd_scherm.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_daan.cpp:2:10: 'ui_kamer_daan.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_jasper.cpp:2:10: 'ui_kamer_jasper.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_jesper.cpp:2:10: 'ui_kamer_jesper.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_judith.cpp:2:10: 'ui_kamer_judith.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_kyrill.cpp:2:10: 'ui_kamer_kyrill.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_mees.cpp:2:10: 'ui_kamer_mees.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_oliver.cpp:2:10: 'ui_kamer_oliver.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_quinn.cpp:2:10: 'ui_kamer_quinn.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_richel.cpp:2:10: 'ui_kamer_richel.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_rohan.cpp:2:10: 'ui_kamer_rohan.h' file not found
+/home/richel/GitHubs/djog_nanos_2018/kamer_seny.cpp:2:10: 'ui_kamer_seny.h' file not found
+
+
+OCLint Report
+
+Summary: TotalFiles=17 FilesWithViolations=0 P1=0 P2=0 P3=0 
+
+
+[OCLint (http://oclint.org) v0.10.3]

@@ -1,0 +1,16 @@
+#!/bin/bash
+git checkout richel
+git pull
+
+
+
+for branch in $(git branch --list --all | egrep remotes  | egrep -v HEAD | cut -d "/" -f 3)
+do
+  git checkout $branch
+  git pull
+  git checkout richel
+  git merge $branch
+  git push
+done
+
+git checkout richel

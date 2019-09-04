@@ -1,0 +1,37 @@
+language: cpp
+dist: bionic
+compiler: gcc
+
+install: 
+  - sudo apt update -qq
+  # Boost
+  - sudo apt install -qq libboost-all-dev
+  # Qt5
+  - sudo apt-get install -qq qt5-qmake qt5-default
+  # cppcheck
+  - sudo apt-get install -qq cppcheck
+  # Codecov
+  - sudo pip install codecov
+  # OCLint
+  - ./install_oclint
+
+services:
+  - xvfb
+
+script: 
+  # Bouw het project
+  - qmake -qt=qt5 djog_nanos_2018.pro
+  - make --silent debug
+  # Run het een beetje
+  - ./djog_nanos_2018 --versie
+  # cppcheck
+  - cppcheck --error-exitcode=1 . 
+  # Get code coverage
+  - ./get_code_cov >/dev/null
+  - codecov >/dev/null
+  # Call OCLint
+  - ./do_oclint
+
+after_success:
+  # Codecov
+  - bash <(curl -s https://codecov.io/bash)

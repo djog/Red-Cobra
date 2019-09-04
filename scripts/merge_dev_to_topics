@@ -1,0 +1,12 @@
+#!/bin/bash
+git checkout develop
+git pull
+
+for branch in daan jasper jesper judith kyrill mees oliver quinn richel rohan seny
+do
+  git checkout $branch
+  git merge develop
+  git push
+done
+
+git checkout develop
