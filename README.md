@@ -36,8 +36,8 @@ Naam   |GitHub naam
 -------|------------------
 Jesper |[@jesperdoekes](https://github.com/jesperdoekes)
 Oliver |[@ollyturner](https://github.com/ollyturner)
-Richel |[@richelbilderbeek](https://github.com/richelbilderbeek)
 Seny   |[@S3NY7](https://github.com/S3NY7)
+Jacub  |
 
 ### Hoofdtaken
 
@@ -47,8 +47,8 @@ Naam   |Taken
 -------|---
 Jesper |Medior dev
 Oliver |Junior dev, verhaal, Engels
-Richel |Senior dev
 Seny   |Junior dev, verhaal
+Jacob  |Junior dev
 
 Taak|Omschrijving
 ---|---
@@ -72,11 +72,13 @@ In het huis zijn de volgende kamers:
 
 Kamernaam               |Programmeur | Verhaal |Graphics
 ------------------------|----------- |---------|-------------
-Garage                  | Mees       | Jonas   | Jonas
-Hal                     | Jasper     | Jasper  | Bruno
-Laboratorium (in kelder)| Mees       | Mees    | Judith
-Slaapkamer (van jezelf) | Jesper     | Bruno   | Bruno
-Slaapkamer (van ouders) | Bruno      | Judith  | Judith
+Garage                  |            |         | 
+Hal                     |            |         | 
+Laboratorium (in kelder)|            |         | 
+Slaapkamer (van jezelf) |            |         | 
+Slaapkamer (van ouders) |            |         | 
+Woonkamer               |            |         |         
+
 
  * Programmeur: programmeert de kamer
  * Graphics: teken het achtergrondplaatje en voorwerpen
@@ -107,3 +109,5 @@ Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.
  * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
  * [Dojo](https://github.com/richelbilderbeek/Dojo)
  * [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
+## Muziek
+
