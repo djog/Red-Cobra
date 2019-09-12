@@ -34,14 +34,7 @@ een steampunk thema.
 
 Naam   |GitHub naam
 -------|------------------
-Bruno  |[@brunoHacker](https://github.com/brunoHacker)
-Daan   |[@daantje1](https://github.com/daantje1)
-Jasper |[@Brainlab009](https://github.com/Brainlab009)
 Jesper |[@jesperdoekes](https://github.com/jesperdoekes)
-Jonas  |[@jojojonie](https://github.com/jojojonie)
-Judith |[@judithbonga](https://github.com/judithbonga)
-Kyrill |[@RedKnife47](https://github.com/RedKnife47)
-Mees   |[@mixmastermees](https://github.com/mixmastermees)
 Oliver |[@ollyturner](https://github.com/ollyturner)
 Richel |[@richelbilderbeek](https://github.com/richelbilderbeek)
 Seny   |[@S3NY7](https://github.com/S3NY7)
@@ -52,14 +45,7 @@ Op voornaam, op alfabet:
 
 Naam   |Taken
 -------|---
-Bruno  |Junior dev, graphics
-Daan   |Medior dev
-Jasper |Junior dev
 Jesper |Medior dev
-Jonas  |Junior dev, graphics
-Judith |Junior dev
-Kyrill |Junior dev
-Mees   |Medior dev, opstarten
 Oliver |Junior dev, verhaal, Engels
 Richel |Senior dev
 Seny   |Junior dev, verhaal
