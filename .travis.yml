@@ -20,10 +20,10 @@ services:
 
 script: 
   # Bouw het project
-  - qmake -qt=qt5 djog_nanos_2018.pro
+  - qmake -qt=qt5 Red-Cobra.pro
   - make --silent debug
   # Run het een beetje
-  - ./djog_nanos_2018 --versie
+  - ./Red-Cobra --versie
   # cppcheck
   - cppcheck --error-exitcode=1 . 
   # Get code coverage
