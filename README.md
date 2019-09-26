@@ -37,9 +37,9 @@ Naam   |GitHub naam
 Jesper |[@jesperdoekes](https://github.com/jesperdoekes)
 Oliver |[@ollyturner](https://github.com/ollyturner)
 Seny   |[@S3NY7](https://github.com/S3NY7)
-Jacub  |
+Jacob|[@jacobwhat](https://github.com/jacobwhat)
 
-### Hoofdtaken
+## Hoofdtaken
 
 Op voornaam, op alfabet:
 
