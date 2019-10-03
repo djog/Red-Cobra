@@ -44,11 +44,20 @@ Jacob|[@jacobwhat](https://github.com/jacobwhat)
 Op voornaam, op alfabet:
 
 Naam   |Taken
--------|---
+-------|----------------------------
 Jesper |Medior dev
 Oliver |Junior dev, verhaal, Engels
 Seny   |Junior dev, verhaal
 Jacob  |Junior dev
+
+Rol         | zorgt ervoor dat ...               | bepaalt ...
+------------|------------------------------------|------------------------------------------
+Junior      | hij/zij leert programmeren         | wanneer hij/zij hulp nodig heeft
+Medior      | iedereen leert programmeren        | programmeerdingen van het project
+Voorzitter  | een vergadering nuttig is          | de regels van een vergadering
+Coordinator | iedereen weet wat 'ie moet doen    | de volgorde van taken op de projectpagina
+Teamleider  | iedereen fijn samen kan werken     | regels hoe het team samen werkt
+SI          | iedereen een emailadres kan hebben | dat het wachtwoord geheim blijft
 
 Taak|Omschrijving
 ---|---
