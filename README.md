@@ -109,5 +109,11 @@ Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.
  * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
  * [Dojo](https://github.com/richelbilderbeek/Dojo)
  * [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
+
 ## Muziek
 
+## Videos
+
+Topic                         | Download                                                  | YouTube
+------------------------------|-----------------------------------------------------------|-----------------------------------
+How to clone and run the game | [here](http://richelbilderbeek.nl/red_cobra_20191003.mkv) | [here](https://youtu.be/DFf1yFmI9LQ)
