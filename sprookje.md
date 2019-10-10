@@ -1,5 +1,5 @@
 # Sprookje
 
-Er was eens ...
+Er was een milijard personen
 
-En ze leefden nog lang en gelukkig!
+En ze leefden nooit lang en gelukkig!
