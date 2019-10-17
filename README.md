@@ -47,10 +47,12 @@ Op voornaam, op alfabet:
 
 Naam   |Taken
 -------|----------------------------
-Jesper |Medior dev
-Oliver |Junior dev, verhaal, Engels
-Seny   |Junior dev, verhaal
-Jacob  |Junior dev
+Jesper |Medior, Coordinater
+Oliver |Junior dev, Voorzitter, Engels
+Seny   |Junior dev, Geluid
+Jacob  |Junior dev, Voorzitter
+Vera|Junior, //Team Leider//
+Mohanned|Junior
 
 Rol         | zorgt ervoor dat ...               | bepaalt ...
 ------------|------------------------------------|------------------------------------------
