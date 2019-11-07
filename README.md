@@ -49,8 +49,6 @@ Jacob   |Junior dev, voorzitter
 Mohanned|Junior
 Oliver  |Junior dev, voorzitter, Engels vertalen
 
- * Taken: Teamleider, Medior, Coordinater
-
 Rol         | zorgt ervoor dat ...               | bepaalt ...
 ------------|------------------------------------|------------------------------------------
 Junior      | hij/zij leert programmeren         | wanneer hij/zij hulp nodig heeft
