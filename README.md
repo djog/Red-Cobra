@@ -32,27 +32,24 @@ een steampunk thema.
 
 ### GitHub namen
 
-Naam   |GitHub naam
--------|------------------
-Jesper |[@jesperdoekes](https://github.com/jesperdoekes)
-Oliver |[@ollyturner](https://github.com/ollyturner)
-Seny   |[@S3NY7](https://github.com/S3NY7)
-Jacob|[@jacobwhat](https://github.com/jacobwhat)
-Vera|[@treanld2010](https://github.com/treanld2010)
+Naam    |GitHub naam
+--------|------------------
+Oliver  |[@ollyturner](https://github.com/ollyturner)
+Seny    |[@S3NY7](https://github.com/S3NY7)
+Jacob   |[@jacobwhat](https://github.com/jacobwhat)
 Mohannad|[@al-awlaqi](https://github.com/al-awlaqi)
 
 ## Hoofdtaken
 
 Op voornaam, op alfabet:
 
-Naam   |Taken
--------|----------------------------
-Jesper |Medior, Coordinater
-Oliver |Junior dev, Voorzitter, Engels
-Seny   |Junior dev, Geluid
-Jacob  |Junior dev, Voorzitter
-Vera|Junior, //Team Leider//
+Naam    |Taken
+--------|----------------------------
+Jacob   |Junior dev, voorzitter
 Mohanned|Junior
+Oliver  |Junior dev, voorzitter, Engels vertalen
+
+ * Taken: Teamleider, Medior, Coordinater
 
 Rol         | zorgt ervoor dat ...               | bepaalt ...
 ------------|------------------------------------|------------------------------------------
